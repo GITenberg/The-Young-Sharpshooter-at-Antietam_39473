@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6299'
     url: http://www.gutenberg.org/2009/agents/6299
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39473#The-Young-Sharpshooter-at-Antietam
 gutenberg_issued: '2012-04-18'
 gutenberg_type: Text
 identifiers:
