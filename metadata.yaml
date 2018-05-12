@@ -1,0 +1,28 @@
+_repo: The-Young-Sharpshooter-at-Antietam_39473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tomlinson, Everett T. (Everett Titsworth)
+    alias: Tomlinson, Everett Titsworth
+    birthdate: 1859
+    deathdate: 1931
+    gutenberg_agent_id: '6299'
+    url: http://www.gutenberg.org/2009/agents/6299
+description: ''
+gutenberg_issued: '2012-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39473'
+  lccn: '14015405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+title: The Young Sharpshooter at Antietam
+url: http://www.gutenberg.org/ebooks/39473
